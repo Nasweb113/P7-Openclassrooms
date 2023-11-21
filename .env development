@@ -1,0 +1,5 @@
+SECRET = your secret password for jwt
+APP_URL = your DATABASE_URL
+PORT = your port
+
+DATABASE_URL= your database url
